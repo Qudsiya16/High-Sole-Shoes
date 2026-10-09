@@ -1,0 +1,6 @@
+{
+  "name": "ALTURA — Architectural High-Sole & Platform Sneakers",
+  "description": "Discover luxury high-sole, platform, and chunky sneakers for men and women. Engineered for elevated street presence with sculptural midsoles and bold colorways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
